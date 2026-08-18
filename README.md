@@ -8,20 +8,15 @@ Tenho grande interesse por tecnologia e sou apaixonado por essa área desde pequ
 Ao longo da minha formação, já tive contato com diferentes áreas da tecnologia, incluindo manutenção de computadores, redes de computadores, desenvolvimento web e web design. Essas experiências despertaram ainda mais meu interesse pela área e me motivam a continuar desenvolvendo minhas habilidades, adquirindo novos conhecimentos e me preparando para futuras oportunidades profissionais no setor de tecnologia.
 
 <p>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/MiguelDacota?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Repositories" 
+            title="Repositories GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+ 
+    
 </p>
 
 ---
@@ -82,12 +77,6 @@ Ao longo da minha formação, já tive contato com diferentes áreas da tecnolog
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
